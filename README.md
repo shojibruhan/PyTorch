@@ -36,3 +36,14 @@ repo= 'repo-name'
 !git commit -m "Added basic notebook"
 !git push
 ```
+
+## Extra bash command
+
+**Create a directory**
+```python
+!mkdir -p directory_name
+```
+**Delete a non-empty directory**
+```python
+rm -rf directory_name
+```
